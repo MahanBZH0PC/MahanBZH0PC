@@ -2,9 +2,6 @@
 - 👀 I am a front-end programmer
 - 🌱 and I have 2 and a half years of experience as a Minecraft developer
 - 💞️ Specialties : Html , Css , Javascript , Css Grid and soon
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 MahanBZH0PC/MahanBZH0PC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
